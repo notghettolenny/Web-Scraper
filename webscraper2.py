@@ -3,7 +3,7 @@ import requests
 from selenium import webdriver
 from urllib.parse import urljoin
 
-job_list = "https://www.indeed.com/jobs?q=data+scientist&l=New+York&start=10"
+job_list = "https://ng.indeed.com/jobs?q=javascript%20developer&l=Lagos&vjk=a487f4e865acf31e"
 job_urls = []
 
 driver = webdriver.Chrome("C:/Users/lenny/Downloads/chromedriver_win32/chromedriver.exe") # change path to location of chromedriver on local device
