@@ -1,4 +1,3 @@
----
 
 # 🌐 Web Scraper: Indeed Job Listings
 
